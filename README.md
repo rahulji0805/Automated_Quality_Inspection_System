@@ -202,7 +202,7 @@ This project is licensed under the MIT License.
 
 ## Author
 
-**Rahul Bhukal**
+**Rahul Bhukal**  
 Department of Electronics and Communication Engineering  
 Deenbandhu Chhotu Ram University of Science and Technology  
 
