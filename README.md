@@ -111,7 +111,7 @@ else:
 ## Project Structure
 
 ```
-quality-inspection/
+decodelabs_task02/
 |-- images/                      # 20 test gear images
 |   |-- good_gear_1.png          # 10 perfect gears
 |   |-- defective_gear_1.png     # 10 defective gears
@@ -135,10 +135,10 @@ quality-inspection/
 
 ```bash
 # Clone the repository
-git clone https://github.com/rahulji0805/quality-inspection.git
+git clone https://github.com/rahulji0805/decodelabs_task02.git
 
 # Navigate into the project
-cd quality-inspection
+cd decodelabs_task02
 
 # Install dependencies
 pip install opencv-python numpy
