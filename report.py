@@ -12,7 +12,6 @@ total = 0
 
 print("=" * 50)
 print("   AUTOMATED QUALITY INSPECTION REPORT")
-print("   DecodeLabs Internship 2026 - Rahul Bhukal")
 print("=" * 50)
 print()
 

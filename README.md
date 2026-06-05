@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10.11-blue?style=for-the-badge&logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?style=for-the-badge)
 ![Accuracy](https://img.shields.io/badge/Accuracy-100%25-brightgreen?style=for-the-badge)
-![DecodeLabs](https://img.shields.io/badge/DecodeLabs-Internship%202026-purple?style=for-the-badge)
 
 ---
 
@@ -90,7 +89,6 @@ else:
 ```
 ==================================================
    AUTOMATED QUALITY INSPECTION REPORT
-   DecodeLabs Internship 2026 - Rahul Bhukal
 ==================================================
   defective_gear_1.png     Solidity: 0.8419   [FAIL]
   defective_gear_2.png     Solidity: 0.8419   [FAIL]
@@ -111,7 +109,7 @@ else:
 ## Project Structure
 
 ```
-decodelabs_task02/
+Automated_Quality_Inspection_System/
 |-- images/                      # 20 test gear images
 |   |-- good_gear_1.png          # 10 perfect gears
 |   |-- defective_gear_1.png     # 10 defective gears
@@ -135,10 +133,10 @@ decodelabs_task02/
 
 ```bash
 # Clone the repository
-git clone https://github.com/rahulji0805/decodelabs_task02.git
+git clone https://github.com/rahulji0805/Automated_Quality_Inspection_System.git
 
 # Navigate into the project
-cd decodelabs_task02
+cd Automated_Quality_Inspection_System
 
 # Install dependencies
 pip install opencv-python numpy
@@ -202,20 +200,11 @@ This project is licensed under the MIT License.
 
 ---
 
-## Acknowledgements
-
-- **DecodeLabs** — for providing this internship project
-- **OpenCV** — for the computer vision library
-
----
-
 ## Author
 
 **Rahul Bhukal**
-- Robotics and Automation Intern — DecodeLabs (Batch 2026)
-- GitHub: [rahulji0805](https://github.com/rahulji0805)
+Department of Electronics and Communication Engineering  
+Deenbandhu Chhotu Ram University of Science and Technology  
 
 ---
 
-> "Your journey to becoming a professional Robotics Engineer accelerates right here, right now, with the very first bounding box you draw today."
-> — DecodeLabs, Project 2
